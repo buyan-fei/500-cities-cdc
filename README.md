@@ -3,7 +3,7 @@ Public Health
 
 ---
 
-# Data Science screening - 500 Cities
+# Data Science - 500 Cities
 
 ---
 
